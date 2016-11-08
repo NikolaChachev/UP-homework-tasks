@@ -33,6 +33,7 @@ int main()
 			
 		}
 	} while (difDigits != 1);
+	cout << "Try to guess the 4 digit number !" << endl;
 	do
 	{
 		int counter1 = 0;
